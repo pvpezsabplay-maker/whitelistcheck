@@ -6,8 +6,8 @@ return {
             IsActive = true
         },
         {
-            Username = "min",
-            Password = "min123",
+            Username = "qx_3e",
+            Password = "qx_3e123",
             IsActive = true
         },
         {
